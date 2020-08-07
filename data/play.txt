@@ -1,0 +1,14 @@
+weather,Temperature,Humidity,Wind,Golfplay
+fine,hot,high,none,no
+fine,hot,high,few,no
+rain,warm,high,none,yes
+rain,cold,mediam,none,yes
+rain,cold,mediam,few,no
+cloud,cold,mediam,few,yes
+fine,warm,heigh,none,no
+fine,cold,mediam,none,yes
+rain,warm,mediam,none,yes
+fine,warm,mediam,few,yes
+cloud,warm,high,few,yes
+cloud,hot,mediam,none,yes
+rain,warm,high,few,no
